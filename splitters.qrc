@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/CheckBoxChecked.jpg</file>
+        <file>images/CheckBoxUnchecked.jpg</file>
+        <file>images/ean13.png</file>
+        <file>images/fittowidth.png</file>
+        <file>images/form.png</file>
+        <file>images/nextpage.png</file>
+        <file>images/previouspage.png</file>
+        <file>images/user.png</file>
+    </qresource>
+</RCC>
